@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rub:home|Door43 (rub)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rub|d43-rub repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rub/archive/master.zip|d43-rub.zip]]
+
+**Recent Changes**
+{{changes>ns = rub}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rub|Ethnologue data]]
+
